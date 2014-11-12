@@ -13,7 +13,7 @@
         "elms": [
             {
                 "type": "V",
-                "name": "layout"
+                "name": "root_layout"
             },
             {
                 "type": "I",
