@@ -35,6 +35,14 @@
             {
                 "name": "instance-loaded-by-a-model",
                 "type": "I"
+            },
+            {
+                "name": "view-by-m",
+                "type": "V"
+            },
+            {
+                "name": "m-by-m",
+                "type": "M"
             }
         ]
     }

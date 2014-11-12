@@ -1,0 +1,8 @@
+{
+    "roles": {
+        "*": true
+    },
+    "name": "view-by-m",
+    "html": "[HTML_FILE_PATH]",
+    "to": "[SELECTOR]"
+}

@@ -18,6 +18,14 @@
             {
                 "type": "I",
                 "name": "orient_api"
+            },
+            {
+                "name": "v-by-i",
+                "type": "V"
+            },
+            {
+                "name": "m-by-i",
+                "type": "M"
             }
         ]
     }
