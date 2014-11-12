@@ -1,0 +1,8 @@
+{
+    "roles": {
+        "*": true
+    },
+    "name": "instance-loaded-by-a-model",
+    "config": {},
+    "module": "github_jillix_layout_v0.0.1"
+}
