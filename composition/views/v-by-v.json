@@ -4,5 +4,8 @@
     },
     "name": "v-by-v",
     "html": "[HTML_FILE_PATH]",
-    "to": "[SELECTOR]"
+    "to": "[SELECTOR]",
+    "L": {
+        "elms": []
+    }
 }
