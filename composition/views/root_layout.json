@@ -15,6 +15,10 @@
             {
                 "name": "i-loaded-by-v",
                 "type": "I"
+            },
+            {
+                "name": "test-instance",
+                "type": "I"
             }
         ]
     }
