@@ -1,0 +1,12 @@
+{
+    "roles": {
+        "*": true
+    },
+    "access": "[CRUD_ACCESS]",
+    "adapter": "modm",
+    "entity": "[COLLECTION_NAME]",
+    "label": "",
+    "name": "m-by-m",
+    "schema": {},
+    "store": "[DATABASE_NAME]"
+}

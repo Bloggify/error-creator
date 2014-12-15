@@ -8,9 +8,15 @@
     "label": "People",
     "name": "people",
     "schema": {
-        "name": { "type": "string" },
-        "age": { "type": "integer" },
-        "married": { "type": "boolean" }
+        "name": {
+            "type": "string"
+        },
+        "age": {
+            "type": "integer"
+        },
+        "married": {
+            "type": "boolean"
+        }
     },
     "queries": [
         {
@@ -23,5 +29,21 @@
             }
         }
     ],
-    "store": "countries"
+    "store": "countries",
+    "L": {
+        "elms": [
+            {
+                "name": "instance-loaded-by-a-model",
+                "type": "I"
+            },
+            {
+                "name": "view-by-m",
+                "type": "V"
+            },
+            {
+                "name": "m-by-m",
+                "type": "M"
+            }
+        ]
+    }
 }

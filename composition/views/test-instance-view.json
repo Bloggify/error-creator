@@ -1,0 +1,8 @@
+{
+    "roles": {
+        "*": true
+    },
+    "name": "test-instance-view",
+    "html": "[HTML_FILE_PATH]",
+    "to": "[SELECTOR]"
+}

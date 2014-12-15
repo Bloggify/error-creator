@@ -19,9 +19,15 @@
         "scripts": [
             "/api/orient.js"
         ],
-        "elms": [{
-            "type": "M",
-            "name": "people"
-        }]
+        "elms": [
+            {
+                "type": "M",
+                "name": "people"
+            },
+            {
+                "name": "my-instance",
+                "type": "I"
+            }
+        ]
     }
 }

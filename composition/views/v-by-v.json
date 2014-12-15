@@ -1,0 +1,11 @@
+{
+    "roles": {
+        "*": true
+    },
+    "name": "v-by-v",
+    "html": "[HTML_FILE_PATH]",
+    "to": "[SELECTOR]",
+    "L": {
+        "elms": []
+    }
+}
