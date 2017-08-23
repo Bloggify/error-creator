@@ -1,8 +1,8 @@
 {
-  "name": "i18n-error",
-  "description": "Create errors with i18n in mind.",
+  "name": "error-creator",
+  "description": "Create errors with dynamic parameters and i18n in mind.",
   "keywords": [
-    "i18n",
+    "cute",
     "error",
     "create",
     "errors",
@@ -16,8 +16,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "homepage": "https://github.com/IonicaBizau/i18n-error#readme",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
+  "homepage": "https://github.com/Bloggify/error-creator#readme",
   "files": [
     "bin/",
     "app/",
@@ -32,9 +32,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/i18n-error.git"
+    "url": "git+ssh://git@github.com/Bloggify/error-creator.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/i18n-error/issues"
+    "url": "https://github.com/Bloggify/error-creator/issues"
+  },
+  "dependencies": {
+    "iterate-object": "^1.3.2"
   }
 }
